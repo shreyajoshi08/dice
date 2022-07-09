@@ -23,3 +23,4 @@ roll_again = input("Wanna roll the dices again?")
 if __name__ == '__main__':
 
     main()
+    
